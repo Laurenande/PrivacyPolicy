@@ -16,8 +16,8 @@ parties.
 
 Links to privacy policies of third party service providers used in the app
 
-Google Play Services    https://www.google.com/policies/privacy/
-Unity ADS               https://unity.com/ru/solutions/unity-ads/
+* Google Play Services    https://www.google.com/policies/privacy/
+* Unity ADS               https://unity.com/ru/solutions/unity-ads/
 
 
 2.) Sharing Your Information
